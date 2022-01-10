@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomas.voisin08@gmail.com
+	name = Thomas Voisin
